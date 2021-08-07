@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there! Welcome to Heta's Github!👋   &nbsp; &nbsp;
+![](https://komarev.com/ghpvc/?username=Heta287)
 
-<!--
-**Heta287/Heta287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Heta287&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Heta287&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+I am an avid learner who is deeply passionate about Tech & Data. <br>
+I'm a Data Scientist & ML researcher <br>
+Currently pursuing B.Tech Computer Science from Manipal University Jaipur, India. <br>
+I enjoy connecting the dots linking ideas from different disciplines, people from divergent teams, or applications from diverse industries.
+Whatever it be, I'm always ready to hit the ground running.
+<br> <br>
+
+#### 😂 Here is a random joke that you might like!
+![](https://readme-jokes.vercel.app/api?theme=tokyonight)
