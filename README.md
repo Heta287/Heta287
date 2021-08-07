@@ -10,7 +10,7 @@
 
 <br>
 I am an avid learner who is deeply passionate about Tech & Data. <br>
-I'm a Data Scientist & ML researcher <br>
+My field of interest include Data Science and Machine Learning <br>
 Currently pursuing B.Tech Computer Science from Manipal University Jaipur, India. <br>
 I enjoy connecting the dots linking ideas from different disciplines, people from divergent teams, or applications from diverse industries.
 Whatever it be, I'm always ready to hit the ground running.
