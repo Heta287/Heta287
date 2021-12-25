@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Heta287&show_icons=true&theme=radical&show_icons=true" />
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Heta287&show_icons=true&theme=radical&show_icons=true&border_color=00aacc" />
 </p>
 
 
@@ -16,4 +16,4 @@ Whatever it be, I'm always ready to hit the ground running.
 <br> <br>
 
 #### 😂 Here is a random joke that you might like!
-![](https://readme-jokes.vercel.app/api?theme=radical)
+![](https://readme-jokes.vercel.app/api?theme=radical&borderColor=%00aacc)
