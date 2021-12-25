@@ -16,4 +16,4 @@ Whatever it be, I'm always ready to hit the ground running.
 <br> <br>
 
 #### 😂 Here is a random joke that you might like!
-![](https://readme-jokes.vercel.app/api?theme=radical&borderColor=%00aacc)
+![](https://readme-jokes.vercel.app/api?theme=radical&borderColor=%2300aacc)
