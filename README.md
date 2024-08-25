@@ -10,9 +10,10 @@
 <br>
 I am an avid learner who is deeply passionate about Tech & Data. <br>
 My field of interest include Data Science and Machine Learning <br>
-Currently pursuing B.Tech Computer Science from Manipal University Jaipur, India. I enjoy connecting the dots linking ideas from different disciplines, people from divergent teams, or applications from diverse industries.
-Whatever it be, I'm always ready to hit the ground running.
+I've completed my B.Tech Computer Science from Manipal University Jaipur, India. 
+Currently, a Software Engineer at JPMorganChase.
+I enjoy connecting the dots linking ideas from different disciplines, people from divergent teams, or applications from diverse industries. Whatever it be, I'm always ready to hit the ground running.
 <br> <br>
 
-#### 😂 Here is a random joke that you might like!
+#### 😂 Here is a random joke that you might like! (refresh this page for a new joke)
 ![](https://readme-jokes.vercel.app/api?theme=radical&borderColor=%2300aacc)
